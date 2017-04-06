@@ -544,7 +544,6 @@ pre code {
   background-color: #eff2f3;
 }
 .highlight .code pre {
-  width: 100%;
   padding-left: 10px;
   padding-right: 10px;
   background-color: #f7f7f7;
@@ -1127,17 +1126,11 @@ pre .javascript .function {
   .posts-expand {
     margin: 0 20px;
   }
-  .post-body pre {
+  .post-body pre,
+  .post-body .highlight {
     padding: 10px;
   }
-  .post-body pre .gutter pre {
-    padding-right: 10px;
-  }
-  .post-body .highlight {
-    margin-left: -40px;
-    margin-right: -40px;
-    padding: 0;
-  }
+  .post-body pre .gutter pre,
   .post-body .highlight .gutter pre {
     padding-right: 10px;
   }
@@ -1691,7 +1684,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #8138ff;
+  background: #62e509;
 }
 .links-of-blogroll {
   font-size: 13px;
