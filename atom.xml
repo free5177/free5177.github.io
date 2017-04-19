@@ -120,35 +120,6 @@
   </entry>
   
   <entry>
-    <title>博客日志(Hexo NexT)</title>
-    <link href="http://www.zaihuaone.com/2017/04/05/%E5%8D%9A%E5%AE%A2%E6%97%A5%E5%BF%97/"/>
-    <id>http://www.zaihuaone.com/2017/04/05/博客日志/</id>
-    <published>2017-04-05T12:21:31.000Z</published>
-    <updated>2017-04-19T12:33:59.094Z</updated>
-    
-    <summary type="html">
-    
-      &lt;hr&gt;
-&lt;p&gt;1.hexo命令大全&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;hexo n “标题”    #新建文章&lt;/p&gt;
-&lt;p&gt;hexo n page “标题”   #新建网页&lt;/p&gt;
-&lt;p&gt;hexo g -d   #部署&lt;/p&gt;
-&lt;p&gt;hexo clean   #清理&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;2.本命令在于添加MD文章里的摘要部分。文字包含图片。&lt;/p&gt;
-&lt;blockquote&gt;
-    
-    </summary>
-    
-      <category term="笔记" scheme="http://www.zaihuaone.com/categories/%E7%AC%94%E8%AE%B0/"/>
-    
-    
-      <category term="日志" scheme="http://www.zaihuaone.com/tags/%E6%97%A5%E5%BF%97/"/>
-    
-  </entry>
-  
-  <entry>
     <title>你好世界</title>
     <link href="http://www.zaihuaone.com/2017/04/05/%E4%B8%96%E7%95%8C%E4%BD%A0%E5%A5%BD/"/>
     <id>http://www.zaihuaone.com/2017/04/05/世界你好/</id>
@@ -172,6 +143,48 @@
     
     
       <category term="账号" scheme="http://www.zaihuaone.com/tags/%E8%B4%A6%E5%8F%B7/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>博客知识汇总(Hexo NexT)</title>
+    <link href="http://www.zaihuaone.com/2017/04/05/%E5%8D%9A%E5%AE%A2%E7%9F%A5%E8%AF%86%E6%B1%87%E6%80%BB/"/>
+    <id>http://www.zaihuaone.com/2017/04/05/博客知识汇总/</id>
+    <published>2017-04-04T16:21:31.000Z</published>
+    <updated>2017-04-19T12:47:50.213Z</updated>
+    
+    <summary type="html">
+    
+      &lt;hr&gt;
+&lt;p&gt;百度、Google搜索里面知识太多，符合个人知识条件的太少，只能一个一个，一次一次的验证，尝试。效率太低。所以，本博文在于筛选验证后，博客知识的整理。已备后期的学习调用。主要记录现架设的的Hexo博客，NexT主题。从简单到复杂。记录详细的修改博客网站的方法和技巧。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="笔记" scheme="http://www.zaihuaone.com/categories/%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="日志" scheme="http://www.zaihuaone.com/tags/%E6%97%A5%E5%BF%97/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>博客日志(Hexo NexT)</title>
+    <link href="http://www.zaihuaone.com/2017/04/05/%E5%8D%9A%E5%AE%A2%E6%97%A5%E5%BF%97/"/>
+    <id>http://www.zaihuaone.com/2017/04/05/博客日志/</id>
+    <published>2017-04-04T16:00:00.000Z</published>
+    <updated>2017-04-19T12:52:45.742Z</updated>
+    
+    <summary type="html">
+    
+      &lt;hr&gt;
+&lt;p&gt;开发日志（一个假程序员）&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="笔记" scheme="http://www.zaihuaone.com/categories/%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="日志" scheme="http://www.zaihuaone.com/tags/%E6%97%A5%E5%BF%97/"/>
     
   </entry>
   
