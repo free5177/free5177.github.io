@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>在花One</title>
+  <subtitle>小白博主，专治小白</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://www.zaihuaone.com/"/>
+  <updated>2017-04-18T09:51:42.336Z</updated>
+  <id>http://www.zaihuaone.com/</id>
+  
+  <author>
+    <name>在花One</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>APPLE ID 美区苹果账号申请全攻略教程</title>
+    <link href="http://www.zaihuaone.com/2017/04/18/APPLE%20ID%20%E7%BE%8E%E5%8C%BA%E8%8B%B9%E6%9E%9C%E8%B4%A6%E5%8F%B7%E7%94%B3%E8%AF%B7%E5%85%A8%E6%94%BB%E7%95%A5%E6%95%99%E7%A8%8B/"/>
+    <id>http://www.zaihuaone.com/2017/04/18/APPLE ID 美区苹果账号申请全攻略教程/</id>
+    <published>2017-04-18T07:57:36.000Z</published>
+    <updated>2017-04-18T09:51:42.336Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;APPLE ID在各个不同地区有不同的服务提供。比如很多中国果粉会发现一些自己心仪的游戏在AppStore上下载不了，就是因为中国商店不提供。除了游戏，视频、音乐等也面临同样的情况。毕竟很多厂商习惯把美国作为首发地区。但怎么可能因为这点门槛就阻碍果粉们的热情呢，只需要注册一
+    
+    </summary>
+    
+      <category term="教程" scheme="http://www.zaihuaone.com/categories/%E6%95%99%E7%A8%8B/"/>
+    
+    
+      <category term="Apple ID" scheme="http://www.zaihuaone.com/tags/Apple-ID/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>利用 Fiddler 下载旧版本 iOS App</title>
+    <link href="http://www.zaihuaone.com/2017/04/15/%E5%88%A9%E7%94%A8%20Fiddler%20%E4%B8%8B%E8%BD%BD%E6%97%A7%E7%89%88%E6%9C%AC%20iOS%20App/"/>
+    <id>http://www.zaihuaone.com/2017/04/15/利用 Fiddler 下载旧版本 iOS App/</id>
+    <published>2017-04-15T08:25:38.000Z</published>
+    <updated>2017-04-18T11:49:49.781Z</updated>
+    
+    <summary type="html">
+    
+      &lt;hr&gt;
+&lt;p&gt;&lt;img src=&quot;https://cdn.sspai.com/attachment/origin/2017/02/19/368602.jpg&quot; alt=&quot;1487437820982.jpg&quot;&gt;&lt;/p&gt;
+&lt;h1 id=&quot;写在前面&quot;&gt;&lt;a href=&quot;#写在前面&quot; 
+    
+    </summary>
+    
+      <category term="教程" scheme="http://www.zaihuaone.com/categories/%E6%95%99%E7%A8%8B/"/>
+    
+    
+      <category term="IOS" scheme="http://www.zaihuaone.com/tags/IOS/"/>
+    
+      <category term="App" scheme="http://www.zaihuaone.com/tags/App/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Google Voice申请方法</title>
+    <link href="http://www.zaihuaone.com/2017/04/14/Google%20Voice%E7%94%B3%E8%AF%B7%E6%96%B9%E6%B3%95/"/>
+    <id>http://www.zaihuaone.com/2017/04/14/Google Voice申请方法/</id>
+    <published>2017-04-14T01:40:45.000Z</published>
+    <updated>2017-04-18T09:51:24.751Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;准备：&quot;&gt;&lt;a href=&quot;#准备：&quot; class=&quot;headerlink&quot; title=&quot;准备：&quot;&gt;&lt;/a&gt;准备：&lt;/h3&gt;&lt;p&gt;1、Google账号&lt;/p&gt;
+&lt;p&gt;2、SS美国线路&lt;/p&gt;
+&lt;p&gt;3、鼠标连点器&lt;a href=&quot;http://pan.baidu
+    
+    </summary>
+    
+      <category term="资源整理" scheme="http://www.zaihuaone.com/categories/%E8%B5%84%E6%BA%90%E6%95%B4%E7%90%86/"/>
+    
+    
+      <category term="Google" scheme="http://www.zaihuaone.com/tags/Google/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Surge使用教程</title>
+    <link href="http://www.zaihuaone.com/2017/04/07/Surge%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/"/>
+    <id>http://www.zaihuaone.com/2017/04/07/Surge使用教程/</id>
+    <published>2017-04-07T07:55:29.000Z</published>
+    <updated>2017-04-18T09:57:10.697Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Surge使用教程&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&quot;配置教程：&quot;&gt;&lt;a href=&quot;#配置教程：&quot; class=&quot;headerlink&quot; title=&quot;配置教程：&quot;&gt;&lt;/a&gt;配置教程：&lt;/h2&gt;&lt;p&gt;1、进入Surge后，点击配置再左上角图标，然后选择“从URL下载配置”
+    
+    </summary>
+    
+      <category term="教程" scheme="http://www.zaihuaone.com/categories/%E6%95%99%E7%A8%8B/"/>
+    
+    
+      <category term="Surge" scheme="http://www.zaihuaone.com/tags/Surge/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Workflow工作流</title>
+    <link href="http://www.zaihuaone.com/2017/04/06/workflow%E5%B7%A5%E4%BD%9C%E6%B5%81/"/>
+    <id>http://www.zaihuaone.com/2017/04/06/workflow工作流/</id>
+    <published>2017-04-06T07:16:07.000Z</published>
+    <updated>2017-04-18T11:20:34.348Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;strong&gt;Workflow&lt;/strong&gt; 是一款 iOS 端的免费应用（苹果收购之前付费），通过流程化自动处理各种事情，内置 150+ 动作，如开启相机、获取当前 GPS 位置、生成 PDF、打开 URL 链接、新建 EeverNote 笔记等等，只要能巧妙组合，
+    
+    </summary>
+    
+      <category term="资源整理" scheme="http://www.zaihuaone.com/categories/%E8%B5%84%E6%BA%90%E6%95%B4%E7%90%86/"/>
+    
+    
+      <category term="Workflow" scheme="http://www.zaihuaone.com/tags/Workflow/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>你好世界</title>
+    <link href="http://www.zaihuaone.com/2017/04/05/%E4%B8%96%E7%95%8C%E4%BD%A0%E5%A5%BD/"/>
+    <id>http://www.zaihuaone.com/2017/04/05/世界你好/</id>
+    <published>2017-04-05T02:33:09.000Z</published>
+    <updated>2017-04-18T09:48:57.361Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;请在下方评论，谢谢！&lt;/p&gt;
+&lt;p&gt;请在下方评论，谢谢！&lt;/p&gt;
+&lt;p&gt;请在下方评论，谢谢！&lt;/p&gt;
+&lt;p&gt;请在下方评论，谢谢！&lt;/p&gt;
+&lt;p&gt;请在下方评论，谢谢！&lt;/p&gt;
+&lt;p&gt;请在下方评论，谢谢！&lt;/p&gt;
+&lt;p&gt;请在下方评论，谢谢！&lt;/p&gt;
+&lt;p&gt;请在下方评论，谢谢！&lt;
+    
+    </summary>
+    
+      <category term="笔记" scheme="http://www.zaihuaone.com/categories/%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="账号" scheme="http://www.zaihuaone.com/tags/%E8%B4%A6%E5%8F%B7/"/>
+    
+  </entry>
+  
+</feed>
